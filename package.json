@@ -13,7 +13,17 @@
   ],
   "author": "Jonny Strömberg <jonny.stromberg@gmail.com>",
   "repository": "git://github.com/javve/list.js.git",
-  "dependencies": {},
+  "dependencies": {
+    "component-classes": "1.2.4",
+    "extend": "git://github.com/segmentio/extend",
+    "component-indexof": "0.0.3",
+    "slifszyc/javve-events": "git://github.com/slifszyc/javve-events",
+    "get-by-class": "git://github.com/javve/get-by-class",
+    "get-attribute": "git://github.com/javve/get-attribute",
+    "natural-sort": "git://github.com/javve/natural-sort",
+    "to-string": "git://github.com/javve/to-string",
+    "component-type": "^1.1.0"
+  },
   "devDependencies": {
     "component": "^1.0.1",
     "grunt": "~0.4.1",
