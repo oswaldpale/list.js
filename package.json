@@ -15,7 +15,7 @@
   "repository": "git://github.com/javve/list.js.git",
   "dependencies": {
     "component-classes": "1.2.4",
-    "extend": "git://github.com/segmentio/extend",
+    "s-extend": "git://github.com/segmentio/extend",
     "component-indexof": "0.0.3",
     "events": "git://github.com/slifszyc/javve-events",
     "get-by-class": "git://github.com/slifszyc/get-by-class",
@@ -23,6 +23,9 @@
     "natural-sort": "git://github.com/slifszyc/natural-sort",
     "to-string": "git://github.com/javve/to-string",
     "component-type": "^1.1.0"
+  },
+  "browser": {
+    "extend": "s-extend"
   },
   "devDependencies": {
     "component": "^1.0.1",
