@@ -17,7 +17,7 @@
     "component-classes": "1.2.4",
     "extend": "git://github.com/segmentio/extend",
     "component-indexof": "0.0.3",
-    "slifszyc/javve-events": "git://github.com/slifszyc/javve-events",
+    "events": "git://github.com/slifszyc/javve-events",
     "get-by-class": "git://github.com/javve/get-by-class",
     "get-attribute": "git://github.com/javve/get-attribute",
     "natural-sort": "git://github.com/javve/natural-sort",
