@@ -20,7 +20,7 @@
     "events": "git://github.com/slifszyc/javve-events",
     "get-by-class": "git://github.com/slifszyc/get-by-class",
     "get-attribute": "git://github.com/slifszyc/get-attribute",
-    "natural-sort": "git://github.com/javve/natural-sort",
+    "natural-sort": "git://github.com/slifszyc/natural-sort",
     "to-string": "git://github.com/javve/to-string",
     "component-type": "^1.1.0"
   },
