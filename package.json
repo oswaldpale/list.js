@@ -25,7 +25,8 @@
     "component-type": "^1.1.0"
   },
   "browser": {
-    "extend": "s-extend"
+    "extend": "s-extend",
+    "index-of": "component-indexof"
   },
   "devDependencies": {
     "component": "^1.0.1",
