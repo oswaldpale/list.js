@@ -17,7 +17,7 @@
     "component-classes": "1.2.4",
     "s-extend": "git://github.com/segmentio/extend",
     "component-indexof": "0.0.3",
-    "events": "git://github.com/slifszyc/javve-events",
+    "javve-events": "git://github.com/slifszyc/javve-events",
     "get-by-class": "git://github.com/slifszyc/get-by-class",
     "get-attribute": "git://github.com/slifszyc/get-attribute",
     "natural-sort": "git://github.com/slifszyc/natural-sort",
@@ -27,7 +27,8 @@
   "browser": {
     "extend": "s-extend",
     "classes": "component-classes",
-    "indexof": "component-indexof"
+    "indexof": "component-indexof",
+    "events": "javve-events"
   },
   "devDependencies": {
     "component": "^1.0.1",
